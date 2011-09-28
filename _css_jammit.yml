@@ -3,4 +3,7 @@ gzip_assets: off
 
 stylesheets:
   style:
-    - _source/css/style.css
+    - _public/css/style.css
+  
+  bootstrap:
+    - _public/css/bootstrap.css

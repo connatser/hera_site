@@ -50,6 +50,5 @@ end
 
 desc "Grabs the public site and sends it up to your server."
 task :deploy do
-  puts "Deploying your site, celebrate with dance."
   system("rsync -avz --delete _public/ #{ssh_user}:#{remote_root}")
 end
