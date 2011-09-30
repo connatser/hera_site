@@ -6,7 +6,7 @@ Hera-Site is the initial core structure installed by "Hera":http://connatser.git
 
 The Hera-Site structure was developed to expedite the deployment of a Jekyll based static website, utilizing Jammit for minimization and Guard/Guard-Rake to auto-compile your Haml and Sass templates. This sample structure can be used to create additional templates to install with Hera. Any developer can clone Hera-Site, customize the templates within @_source/_layouts/@ within the haml, pages, posts or sass directories, and submit them for inclusion in the Hera gem. It is recommended to install "Hera":http://connatser.github.com/hera/, play around with the templates and learn the structure, then run wild developing your own templates. 
 
-If any developer would like to submit their Hera-Site based templates for inclusion into the Hera gem, please contact me at "connatser@gmail.com":connatser@gmail.com for now. I hope to have a submission process up soon.
+If any developer would like to submit their Hera-Site based templates for inclusion into the Hera gem, please contact me at "connatser@gmail.com":mailto:connatser@gmail.com for now. I hope to have a submission process up soon.
 
 h2. License
 
