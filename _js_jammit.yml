@@ -1,6 +1,0 @@
-javascript_compressor: closure
-gzip_assets: off
-
-javascripts:
-  boostrap-dropdown:
-    - _public/js/boostrap-dropdown.js

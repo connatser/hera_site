@@ -1,8 +1,0 @@
-javascript_compressor: closure
-gzip_assets: off
-
-stylesheets:
-  style:
-    - _public/css/style.css
-  bootstrap:
-    - _public/css/bootstrap.css

@@ -34,7 +34,7 @@ task :parse_sass do
     puts "Parsing Sass layouts..."    
 	system(%{
 		cd _source/_layouts/sass && for f in *.scss; 
-		do [ -e $f ] && sass $f ../../css/${f%.scss}.css; done
+		do [ -e $f ] && sass $f ../../assets/${f%.scss}.css; done
   	})
 end
 

@@ -1,0 +1,12 @@
+javascript_compressor: closure
+gzip_assets: off
+
+javascripts:
+  boostrap-dropdown:
+    - _public/assets/boostrap-dropdown.js
+
+stylesheets:
+  style:
+    - _public/assets/style.css
+  bootstrap:
+    - _public/assets/bootstrap.css
