@@ -1,0 +1,2 @@
+ssh_user: user@domain.net
+remote_root: ~/path/to/remote/

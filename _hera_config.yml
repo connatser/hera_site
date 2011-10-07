@@ -1,0 +1,24 @@
+jekyll:
+  id: haml_jekyll
+  type: haml
+  ext: haml
+  src: _source/_layouts/haml/
+  prod: ../
+pages:
+  id: haml_pages
+  type: haml
+  ext: haml
+  src: _source/_layouts/pages/
+  prod: ../../
+posts:
+  id: haml_posts
+  type: haml
+  ext: haml
+  src: _source/_layouts/posts/
+  prod: ../../_posts/
+sass:
+  id: sass_style
+  type: sass
+  ext: scss
+  src: _source/_layouts/sass/
+  prod: ../../assets/
